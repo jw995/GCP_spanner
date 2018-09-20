@@ -1,0 +1,10 @@
+0,importid,integer
+1,countCol,integer
+2,pathCol,string
+3,predictTimeCol,float
+4,objCol,string
+5,accuracyCol,string
+6,leftXCol,integer
+7,topYCol,integer
+8,widthCol,integer
+9,heightCol,integer
